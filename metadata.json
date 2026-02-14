@@ -1,0 +1,7 @@
+{
+  "name": "Jesko Jets Clone",
+  "description": "A high-end luxury private jet charter application with AI concierge services, fleet exploration, and real-time booking simulations inspired by Jesko Jets.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
